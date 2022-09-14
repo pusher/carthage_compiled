@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NWWebSocket",
+        "repositoryURL": "https://github.com/pusher/NWWebSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "eed470bc3607bc4893046f461107ec463dbd1220",
+          "version": "0.5.2"
+        }
+      },
+      {
+        "package": "TweetNacl",
+        "repositoryURL": "https://github.com/bitmark-inc/tweetnacl-swiftwrap",
+        "state": {
+          "branch": null,
+          "revision": "d1552db4d907f2c5cb3d1bf1336496b2e16c8ecf",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

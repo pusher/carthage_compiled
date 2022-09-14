@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "6920bb921e1da14bfd5ef57ee08ce2a3fa6da4390f4aed549677da84d6035d2b",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "35e61c7157cbb966197d1ac59ad92af1bf5aa743afc8c5268a012839bb03af4d",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "7a0a2e0c59786c18fcdbf05aa72bb9292758b27fdc7adf9f6e864b14d348aa22",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "cba9dd1d7c2121537c9d4bac6ac023c3e748e74bcb4fb2b0f146fc01ee6c9e99",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "7fc01158f42c467d5d8aad8db15808e8e1fd70ecfc9dc62af5fe9e5babc336de",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    }
+  ],
+  "commitish" : "0.5.2",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "a8fe759d78846eb37eddd865ba82f9fd75d07161df9c7bb3fda6ba5f2f2d5aa6",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "cba71769b3b9a8c7ac4d614c3b762eeb91d5be820707a94f09639db9d7d57533",
+      "name" : "NWWebSocket",
+      "container" : "NWWebSocket.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+github "benjamin-tang-pusher/pusher-websocket-swift" "f2c6ab3d0f9672fa4e98e83d878ee38eda2c4c89"
+github "bitmark-inc/tweetnacl-swiftwrap" "0433254285de5d89031eb6637cb77b5a00718973"
+github "pusher/NWWebSocket" "0.5.2"

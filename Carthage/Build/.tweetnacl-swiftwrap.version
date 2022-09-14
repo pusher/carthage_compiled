@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "c83dae16545372b6fa38811a644a72c7ab342398c7dfbddd644a3a85bf6425b2",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "716601d7ec9fd73be58b46b6bc1a32878001beb28a17d90ce269ee5ad0342328",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "bb1513285121f975de039a782e77e16b954a85202d179914a1e24904348f064d",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "873260ac3b6aafa94713123417f2c360566f61ab925fb96179b1bd134540d9b5",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "49294165bc63590288636af011fad147ce4c8fd3c6384f149bc4da90fc1032e0",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    }
+  ],
+  "commitish" : "0433254285de5d89031eb6637cb77b5a00718973",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "075cccdd3f216e8b2272d93239cdf680ac0e51eaa19b944c295f8175ca7a1011",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "7ea3705ef991044a9a56a0dde9afd0c209b3283f0a00892aa362b232dbff271c",
+      "name" : "TweetNacl",
+      "container" : "TweetNacl.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

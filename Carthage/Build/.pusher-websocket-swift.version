@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "958cf1f046a1ef12de3b1c491a1d57c839de7592cf0f89264aabc27aec7b5cb9",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "5155c0f1056fda3add70ae638fc1cd3c9c777af361b3015341635a620b495089",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "8882ff6f69f789aa5c4aa5d444dfdac5b0c8d14dfb8bf30222eb5ca009eab7d8",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "1ac686f30fa377924481d44c54602251941f6ba94721d121a77a7c83dd16f89e",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "cea85d345909940cdf66b80aae47d3576424627cda36a0e046eae5245791f507",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "f2c6ab3d0f9672fa4e98e83d878ee38eda2c4c89",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "428e4742806d09441162c5f43c573d1a6fe802f24fb106476adf45a253f8915a",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "d59b32599c08245cdb17921e9041ee4f2ea9abae4e4f9eb4be8a650d9701199a",
+      "name" : "PusherSwift",
+      "container" : "PusherSwift.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}
